@@ -10,3 +10,6 @@
 
 
 1. [Кто такой 1С разработчик.Знакомство с платформой](https://github.com/netology-code/onecfree-homework/blob/main/homework-1/homework-1.md)
+2. [Создание структуры проекта](https://github.com/netology-code/onecfree-homework/blob/main/homework-2/homework-2.md)
+3. [Приёмы программирования, интеграция с внешними сервисами](https://github.com/netology-code/onecfree-homework/blob/main/homework-3/homework-3.md)
+4. [Использование накопленных данных. Отчёты и дашборды](https://github.com/netology-code/onecfree-homework/blob/main/homework-4/homework-4.md)
